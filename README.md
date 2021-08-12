@@ -29,4 +29,11 @@ npm을 통해서 쉽게 설정해봅시다
 * electron --version
 
 
-이제 일렉트론을 사용해 첫 번째 앱을 개발해보겠습니다.
+## Electron 작동원리
+
+Electron은 package.json 파일에 정의된 기본 파일을 가져와 실행하게됩니다.
+
+이 기본 파일은 Rendering된 웹 페이지와 운영체제의 기본 GUI와의 상호작용을 포함하는 응용프로그램 창을 생성합니다
+
+Elcetron을 사용하여 애플리케이션을 시작하면 Main Process가 생성됩니다.
+이 Main Process는 운영체제의 기본 GUI와 상호작용하는 역할을 하며, 애플리케이션의 GUI를 생성합니다.
