@@ -1,0 +1,22 @@
+{
+  "name": "electron_learning",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanxbeen/Electron_Learning.git"
+  },
+  "keywords": [
+    "study"
+  ],
+  "author": "hanxbeen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hanxbeen/Electron_Learning/issues"
+  },
+  "homepage": "https://github.com/Hanxbeen/Electron_Learning#readme"
+}
